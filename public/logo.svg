@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="47.484219mm"
+   height="47.509281mm"
+   viewBox="0 0 47.484219 47.509281"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="270.90161"
+       y="440.37784"
+       width="103.3663"
+       height="81.282318"
+       id="rect965" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter903"
+       x="-0.15627567"
+       y="-0.1547716"
+       width="1.3125513"
+       height="1.3095433">
+      <feGaussianBlur
+         stdDeviation="1.7204731"
+         id="feGaussianBlur905" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter907"
+       x="-0.11535744"
+       y="-0.11528259"
+       width="1.2307149"
+       height="1.2305652">
+      <feGaussianBlur
+         stdDeviation="1.8544974"
+         id="feGaussianBlur909" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter1019"
+       x="-0.060009614"
+       y="-0.046745598"
+       width="1.1200192"
+       height="1.0934912">
+      <feGaussianBlur
+         stdDeviation="0.34077726"
+         id="feGaussianBlur1021" />
+    </filter>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-32.968549,-38.733317)">
+    <ellipse
+       style="fill:#9ca3c1;fill-opacity:1;stroke-width:0.264583;filter:url(#filter907)"
+       id="path111"
+       cx="56.710659"
+       cy="62.487957"
+       rx="19.291317"
+       ry="19.303843" />
+    <ellipse
+       style="fill:#717171;fill-opacity:1;stroke-width:0.174927;filter:url(#filter903)"
+       id="path113"
+       cx="56.763115"
+       cy="62.023735"
+       rx="13.211062"
+       ry="13.339448" />
+    <text
+       xml:space="preserve"
+       transform="matrix(1.2240454,0,0,0.87881809,-285.03916,-336.21138)"
+       id="text963"
+       style="font-size:24px;white-space:pre;shape-inside:url(#rect965);opacity:0.64;fill:#9ca3c1;fill-opacity:1;filter:url(#filter1019)"><tspan
+         x="270.90234"
+         y="461.61133"
+         id="tspan1090">R</tspan></text>
+  </g>
+</svg>
